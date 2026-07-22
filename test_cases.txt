@@ -1,0 +1,105 @@
+STUDENT GRADE CALCULATOR - TEST CASES
+======================================
+
+TEST CASE 1: Grade A
+Input:
+Student Name: Priya
+Marks: 95
+
+Expected Output:
+Grade: A
+Message: Excellent! Outstanding performance!
+
+Result: PASSED
+
+
+--------------------------------------
+
+TEST CASE 2: Grade B
+Input:
+Student Name: Rahul
+Marks: 85
+
+Expected Output:
+Grade: B
+Message: Very Good! Keep it up!
+
+Result: PASSED
+
+
+--------------------------------------
+
+TEST CASE 3: Grade C
+Input:
+Student Name: Amit
+Marks: 75
+
+Expected Output:
+Grade: C
+Message: Good job! You can improve further!
+
+Result: PASSED
+
+
+--------------------------------------
+
+TEST CASE 4: Grade D
+Input:
+Student Name: Neha
+Marks: 65
+
+Expected Output:
+Grade: D
+Message: You passed! Keep working harder!
+
+Result: PASSED
+
+
+--------------------------------------
+
+TEST CASE 5: Grade F
+Input:
+Student Name: Ravi
+Marks: 45
+
+Expected Output:
+Grade: F
+Message: Don't give up! Work harder and try again!
+
+Result: PASSED
+
+
+--------------------------------------
+
+TEST CASE 6: Invalid Marks - Above 100
+Input:
+Marks: 110
+
+Expected Output:
+Invalid marks! Please enter a value between 0 and 100.
+
+Result: PASSED
+
+
+--------------------------------------
+
+TEST CASE 7: Invalid Marks - Below 0
+Input:
+Marks: -10
+
+Expected Output:
+Invalid marks! Please enter a value between 0 and 100.
+
+Result: PASSED
+
+
+--------------------------------------
+
+TEST CASE 8: Non-Numeric Input
+Input:
+Marks: abc
+
+Expected Output:
+Invalid input! Please enter numbers only.
+
+Result: PASSED
