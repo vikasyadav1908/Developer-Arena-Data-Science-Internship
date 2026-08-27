@@ -1,0 +1,10 @@
+HYPOTHESIS TESTING RESULTS
+
+Test 1: One Sample T-Test
+TtestResult(statistic=2.36124438299242, pvalue=0.020172184232462628, df=99)
+
+Test 2: Independent T-Test (East vs West)
+TtestResult(statistic=2.0202108796829767, pvalue=0.049619032636626016, df=43.0)
+
+Test 3: One-Way ANOVA
+F_onewayResult(statistic=2.1643634298978425, pvalue=0.09723678084980039)
