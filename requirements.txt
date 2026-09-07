@@ -1,6 +1,17 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-jupyter
+House Price Prediction using Machine Learning
+
+Models Used:
+1. Linear Regression
+2. Decision Tree Regressor
+3. Random Forest Regressor
+
+Libraries Used:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+Evaluation Metrics:
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+R2 Score
+
+Project Goal:
+To predict house prices using machine learning algorithms and compare their performance.
